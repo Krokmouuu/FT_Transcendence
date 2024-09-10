@@ -26,6 +26,8 @@ Many features have also been implemented:
 - Dockerizing the project
 - Teamwork and collaboration
 
+# Visuels :
+[Frontpage and Profile](../../wiki)
 
 # Authors:
 - [@Krokmouuu](https://github.com/Krokmouuu)
